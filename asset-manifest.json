@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/singapore-music-classifier/static/css/main.e8375efa.chunk.css",
-    "main.js": "/singapore-music-classifier/static/js/main.a1e27552.chunk.js",
-    "main.js.map": "/singapore-music-classifier/static/js/main.a1e27552.chunk.js.map",
+    "main.js": "/singapore-music-classifier/static/js/main.fc04e04f.chunk.js",
+    "main.js.map": "/singapore-music-classifier/static/js/main.fc04e04f.chunk.js.map",
     "runtime-main.js": "/singapore-music-classifier/static/js/runtime-main.1dc310d4.js",
     "runtime-main.js.map": "/singapore-music-classifier/static/js/runtime-main.1dc310d4.js.map",
     "static/css/2.c7488f75.chunk.css": "/singapore-music-classifier/static/css/2.c7488f75.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.c7488f75.chunk.css",
     "static/js/2.045c1de3.chunk.js",
     "static/css/main.e8375efa.chunk.css",
-    "static/js/main.a1e27552.chunk.js"
+    "static/js/main.fc04e04f.chunk.js"
   ]
 }
