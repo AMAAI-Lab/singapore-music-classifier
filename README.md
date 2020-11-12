@@ -1,7 +1,7 @@
 # singapore-music-classifier
 
 <!-- test -->
-# CulturalClassifier Features
+
 
 ## Features
 
