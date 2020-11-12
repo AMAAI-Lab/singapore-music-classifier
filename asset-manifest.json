@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/singapore-music-classifier/static/css/main.41f701b0.chunk.css",
+    "main.js": "/singapore-music-classifier/static/js/main.66e2411e.chunk.js",
+    "main.js.map": "/singapore-music-classifier/static/js/main.66e2411e.chunk.js.map",
+    "runtime-main.js": "/singapore-music-classifier/static/js/runtime-main.ff3e11ad.js",
+    "runtime-main.js.map": "/singapore-music-classifier/static/js/runtime-main.ff3e11ad.js.map",
+    "static/css/2.a9d4eb2c.chunk.css": "/singapore-music-classifier/static/css/2.a9d4eb2c.chunk.css",
+    "static/js/2.7eb0b4c3.chunk.js": "/singapore-music-classifier/static/js/2.7eb0b4c3.chunk.js",
+    "static/js/2.7eb0b4c3.chunk.js.map": "/singapore-music-classifier/static/js/2.7eb0b4c3.chunk.js.map",
+    "index.html": "/singapore-music-classifier/index.html",
+    "precache-manifest.6400b6dfed3d4eded865d790ad16b540.js": "/singapore-music-classifier/precache-manifest.6400b6dfed3d4eded865d790ad16b540.js",
+    "service-worker.js": "/singapore-music-classifier/service-worker.js",
+    "static/css/2.a9d4eb2c.chunk.css.map": "/singapore-music-classifier/static/css/2.a9d4eb2c.chunk.css.map",
+    "static/css/main.41f701b0.chunk.css.map": "/singapore-music-classifier/static/css/main.41f701b0.chunk.css.map",
+    "static/js/2.7eb0b4c3.chunk.js.LICENSE.txt": "/singapore-music-classifier/static/js/2.7eb0b4c3.chunk.js.LICENSE.txt",
+    "static/media/compiled-highlevel2.csv": "/singapore-music-classifier/static/media/compiled-highlevel2.8f34e658.csv",
+    "static/media/font-awesome.css": "/singapore-music-classifier/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/high-level2-normalized.csv": "/singapore-music-classifier/static/media/high-level2-normalized.2c497b06.csv",
+    "static/media/low-level-normalized.csv": "/singapore-music-classifier/static/media/low-level-normalized.93c6d0d3.csv",
+    "static/media/lowlevel-combined-withoutStats.csv": "/singapore-music-classifier/static/media/lowlevel-combined-withoutStats.c3515317.csv",
+    "static/media/ndp_predictions.csv": "/singapore-music-classifier/static/media/ndp_predictions.15733e92.csv",
+    "static/media/tsne-three-dim.csv": "/singapore-music-classifier/static/media/tsne-three-dim.159ac41d.csv",
+    "static/media/two-dtsne.csv": "/singapore-music-classifier/static/media/two-dtsne.0238cff8.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff3e11ad.js",
+    "static/css/2.a9d4eb2c.chunk.css",
+    "static/js/2.7eb0b4c3.chunk.js",
+    "static/css/main.41f701b0.chunk.css",
+    "static/js/main.66e2411e.chunk.js"
+  ]
+}
