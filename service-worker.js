@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/singapore-music-classifier/precache-manifest.6400b6dfed3d4eded865d790ad16b540.js"
+  "/singapore-music-classifier/precache-manifest.f99e2ae000bf9277fe8ca78d394da5e3.js"
 );
 
 self.addEventListener('message', (event) => {
