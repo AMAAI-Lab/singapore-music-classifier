@@ -2,6 +2,7 @@
 
 <!-- test -->
 - Code for web visualization tool is found on branch gh-pages
+- Code for cnn model found on cnn.py on main branch
 
 ## Features
 
