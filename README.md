@@ -1,5 +1,12 @@
 # singapore-music-classifier
 
+Source code accompanying the paper: 
+
+Nahar F., Agres K., BT B, Herremans D..  2020.  A dataset and classification model for Malay, Hindi, Tamil and Chinese music. 13th Workshop on music and machine learning (MML) as part of ECML/PKDD. [Read paper](https://arxiv.org/pdf/2009.04459.pdf)
+
+In this paper we present a new dataset, with musical excepts from the three main ethnic groups in Singapore: Chinese, Malay and Indian (both Hindi and Tamil). We use this new dataset to train different classification models to distinguish the origin of the music in terms of these ethnic groups. The classification models were optimized by exploring the use of different musical features as the input. Both high level features, i.e., musically meaningful features, as well as low level features, i.e., spectrogram based features, were extracted from the audio files so as to optimize the performance of the different classification models.
+
+
 <!-- test -->
 - Code for web visualization tool is found on branch gh-pages
 - Code for cnn model found on cnn.py on main branch
